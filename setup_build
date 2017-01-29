@@ -58,7 +58,7 @@ META_OE_REPO=git://github.com/openembedded/meta-openembedded
 META_OE_TAG=24e1ebc21da20240a41984b7f5c90aa9bd65a7e8
 
 META_JAVA_REPO=https://github.com/woglinde/meta-java.git
-META_JAVA_TAG=5d528acac0eab6cfaa4ed3c290c7db3acd5047bf
+META_JAVA_TAG=a265b31ec7d022be254abdf959360a7624208585
 
 META_SELINUX_REPO=git://git.yoctoproject.org/meta-selinux
 META_SELINUX_TAG=8e952c7da126d30f4aecb33abd3ef9252785cb40
